@@ -1,0 +1,10 @@
+[[t8code]]
+arch = "x86_64"
+git-tree-sha1 = "0ae72b224ed62a76fba594e13c7794d1c43400b1"
+lazy = true
+mpi = "microsoftmpi"
+os = "windows"
+
+    [[t8code.download]]
+    sha256 = "cd0e54744094d8b540baff69bb7c87244e0b4b5174751d5f9fe48b2f71b7dd8a"
+    url = "https://github.com/staticfloat/t8code_jll.jl/releases/download/t8code-v1.1.2+4/t8code.v1.1.2.x86_64-w64-mingw32-mpi+microsoftmpi.tar.gz"
